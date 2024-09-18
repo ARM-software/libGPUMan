@@ -1,0 +1,6 @@
+# Editor config files
+.vs
+.vscode
+
+# Build and debug output files
+/build*
